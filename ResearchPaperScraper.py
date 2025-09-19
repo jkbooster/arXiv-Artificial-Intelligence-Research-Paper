@@ -63,7 +63,7 @@ from io import BytesIO
 from PyPDF2 import PdfReader
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="your_grokai_api_key")
 
 def extract_text(pdf_url):
     try:
