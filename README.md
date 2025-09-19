@@ -1,0 +1,1 @@
+Built a website scraper that records latest Artificial Intelligence research papers from arXiv in a csv. Then used the LLaMA model in order to summarize the papers and turn it into a downloadable pdf that is more understandable.
